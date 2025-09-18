@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-950 text-slate-100 min-h-screen antialiased;
+}
+
+.gradient-header {
+  background: linear-gradient(90deg,#6366f1,#8b5cf6,#ec4899);
+  -webkit-background-clip: text;
+  color: transparent;
+}

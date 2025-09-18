@@ -1,0 +1,7 @@
+[
+  { "id": "tigers", "name": "Tigers", "points": 120 },
+  { "id": "eagles", "name": "Eagles", "points": 110 },
+  { "id": "wolves", "name": "Wolves", "points": 95 },
+  { "id": "sharks", "name": "Sharks", "points": 80 },
+  { "id": "lions", "name": "Lions", "points": 75 }
+]
